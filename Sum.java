@@ -6,7 +6,7 @@
         int b= input.nextInt();
         int sum = a+b;
         System.out.println("sum is " + sum);
-    }
+    } // fixing email
 
     
 }
