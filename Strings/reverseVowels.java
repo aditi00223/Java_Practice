@@ -36,7 +36,7 @@ public class reverseVowels {
             || c == 'o' || c == 'u';
     }
 
-    // 🔥 Main method added
+    
     public static void main(String[] args) {
         String input = "hello";
 
