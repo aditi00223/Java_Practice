@@ -55,4 +55,4 @@ public class RotateImage {
         System.out.println("\nRotated Matrix:");
         printMatrix(matrix);
     }
-}
+}sc.close();

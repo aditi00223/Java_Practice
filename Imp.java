@@ -6,4 +6,4 @@
         System.out.println("Your roll number is " + rollno);
         System.out.println(rollno);
     }
- }
+ }sc.close();

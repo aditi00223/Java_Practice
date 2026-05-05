@@ -21,4 +21,4 @@ public class Largest {
         System.out.println("The largest number is: " + largest);
     }
     
-}
+}sc.close();

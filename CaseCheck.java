@@ -14,4 +14,4 @@ public class CaseCheck {
         }
     }
     
-}
+}sc.close();

@@ -14,4 +14,4 @@ public class Fibbonaci {
         }
     }
     
-}
+}sc.close();

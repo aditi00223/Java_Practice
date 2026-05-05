@@ -11,6 +11,6 @@ public class Summ {
         int summ = a+b;
         System.out.println("sum is " + summ);
     }
-    }
+    }sc.close();
     
 
